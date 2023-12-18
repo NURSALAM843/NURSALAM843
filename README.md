@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Web Dev.  Frontend bisa dikit
+
 
 
 ## 🌐 Socials:
